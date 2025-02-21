@@ -48,14 +48,15 @@ Built with **FastAPI** for the backend, **Groq's Llama-3.3-70B-Versatile** model
 ```
 📦 DayaGramAI
  ┣ 📂 frontend
- ┃ ┣ 📜 index.html       # Main frontend UI
- ┃ ┣ 📜 styles.css       # UI styling
- ┃ ┣ 📜 script.js        # Handles API calls & Mermaid.js rendering
- ┣ 📜 server.py          # FastAPI backend that interacts with Groq API
- ┣ 📜 .env.example       # Example environment variable file
- ┣ 📜 README.md          # Project documentation
- ┣ 📜 requirements.txt    # Python dependencies
- ┗ 📜 .gitignore         # Ignores sensitive files
+ ┃ ┣ 📜 index.html        # Main frontend UI
+ ┃ ┣ 📜 styles.css        # UI styling 
+ ┣ 📂 backend
+ ┃  ┣ 📜 server.py        # FastAPI backend that interacts with Groq API
+ ┃  ┣ 📜 .env.example     # Example environment variable file
+ ┃  ┣ 📜 requirements.txt # Python dependencies
+ ┃  ┣ 📜 script.js        # Handles API calls & Mermaid.js rendering
+ ┣ 📜 .gitignore          # Ignores sensitive files
+ ┗ 📜 README.md           # Project documentation
 ```
 
 ---
