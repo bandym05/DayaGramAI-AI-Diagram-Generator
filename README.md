@@ -1,6 +1,12 @@
 # **DayaGramAI** 🛠️✨  
 An **AI-powered** tool that generates **flowcharts, sequence diagrams, class diagrams, user journeys, Gantt charts, and C4 diagrams** from **natural language prompts** using **Mermaid.js**.  
 
+
+
+https://github.com/user-attachments/assets/f6a98292-9f37-4cc6-b6e8-92084aa6846d
+
+
+
 Built with **FastAPI** for the backend, **Groq's Llama-3.3-70B-Versatile** model for AI-powered diagram generation, and **Mermaid.js** for real-time rendering.
 
 ---
@@ -146,5 +152,5 @@ Want to improve FlowchatAI? Feel free to **fork** and **contribute**! 🚀
 ## **📬 Contact**
 For feedback or inquiries, reach out via:  
 📧 **Email:** bandymalaza05@gmail.com  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/bandile-malaza-932a7718a/)  
+🔗 **LinkedIn:** [Bandile Malaza](https://www.linkedin.com/in/bandile-malaza-932a7718a/)  
 
