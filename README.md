@@ -59,7 +59,7 @@ Follow these steps to **install** and **run** DayaGramAI on your local machine:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/DayaGramAI.git
+git clone https://github.com/bandym05/DayaGramAI-AI-Diagram-Generator.git
 cd DayaGramAI
 ```
 
@@ -145,6 +145,6 @@ Want to improve FlowchatAI? Feel free to **fork** and **contribute**! 🚀
 
 ## **📬 Contact**
 For feedback or inquiries, reach out via:  
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/your-profile)  
+📧 **Email:** bandymalaza05@gmail.com  
+🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/bandile-malaza-932a7718a/)  
 
